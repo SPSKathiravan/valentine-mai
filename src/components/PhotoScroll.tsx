@@ -2,13 +2,12 @@
 
 import React from 'react';
 const PHOTOS = [
-    { id: 1, src: '', alt: '' },
-    { id: 2, src: '', alt: '' },
-    { id: 3, src: '', alt: '' },
-    { id: 4, src: '', alt: '' },
-    { id: 5, src: '', alt: '' },
-    { id: 6, src: 'public/abi6.PNG', alt: '' },
-
+    { id: 1, src: '/images/abi1.jpg', alt: 'Image 1' },
+    { id: 2, src: '/images/abi2.jpg', alt: 'Image 2' },
+    { id: 3, src: '/images/abi3.jpg', alt: 'Image 3' },
+    { id: 4, src: '/images/abi4.jpg', alt: 'Image 4' },
+    { id: 5, src: '/images/abi5.jpg', alt: 'Image 5' },
+    { id: 6, src: '/images/abi6.jpg', alt: 'Image 6' },
 ];
 
 export default function PhotoScroll() {
