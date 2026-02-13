@@ -1,13 +1,15 @@
 'use client';
 
 import React from 'react';
+
+// Update the PHOTOS array with your actual image paths
 const PHOTOS = [
-    { id: 1, src: '/images/abi1.jpg', alt: 'Image 1' },
-    { id: 2, src: '/images/abi2.jpg', alt: 'Image 2' },
-    { id: 3, src: '/images/abi3.jpg', alt: 'Image 3' },
-    { id: 4, src: '/images/abi4.jpg', alt: 'Image 4' },
-    { id: 5, src: '/images/abi5.jpg', alt: 'Image 5' },
-    { id: 6, src: '/images/abi6.jpg', alt: 'Image 6' },
+    { id: 1, src: '/abi6.jpg', alt: 'Image 1' },
+    { id: 2, src: '/abi6.jpg', alt: 'Image 2' },
+    { id: 3, src: '/abi6.jpg', alt: 'Image 3' },
+    { id: 4, src: '/abi6.jpg', alt: 'Image 4' },
+    { id: 5, src: '/abi6.jpg', alt: 'Image 5' },
+    { id: 6, src: '/abi6.jpg', alt: 'Image 6' },
 ];
 
 export default function PhotoScroll() {
