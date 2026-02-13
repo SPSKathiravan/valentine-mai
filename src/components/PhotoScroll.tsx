@@ -7,7 +7,7 @@ const PHOTOS = [
     { id: 3, src: '', alt: '' },
     { id: 4, src: '', alt: '' },
     { id: 5, src: '', alt: '' },
-    { id: 6, src: '', alt: '' },
+    { id: 6, src: 'public/abi6.PNG', alt: '' },
 
 ];
 
