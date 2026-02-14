@@ -5,7 +5,7 @@ import PageContainer from '@/components/PageContainer';
 const PHOTOS = [
     { id: 1, src: 'abi1.png', alt: '' },
     { id: 2, src: 'abi2.png', alt: '' },
-    { id: 3, src: 'abi3.png ', alt: '' },
+    { id: 3, src: 'abi3.png', alt: '' },
     { id: 4, src: 'abi4.png', alt: '' },
     { id: 5, src: 'abi5.png', alt: '' },
     { id: 6, src: 'abi6.png', alt: '' },
